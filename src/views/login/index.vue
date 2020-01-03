@@ -17,9 +17,10 @@ export default {
       });
       return all
     }, []);
-
-    
     console.log("total", total);
+  },
+  methods:{
+    
   }
 };
 </script>
